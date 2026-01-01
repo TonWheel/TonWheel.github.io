@@ -1,8 +1,7 @@
 
 {
-  "url": "http://localhost:3000",
+  "url": "https://TonWheel.github.io",
   "name": "TON Lucky Wheel",
   "iconUrl": "https://picsum.photos/200/200",
-  "termsOfServiceUrl": "http://localhost:3000/terms",
-  "privacyPolicyUrl": "http://localhost:3000/privacy"
+  "termsOfServiceUrl": "https://TonWheel.github.io/terms"
 }
